@@ -1,0 +1,13 @@
+AlignConsecutiveAssignments:
+  Enabled: true
+  AcrossEmptyLines: false
+  AcrossComments: true
+AlignConsecutiveDeclarations: true
+AllowAllParametersOfDeclarationOnNextLine: true
+BinPackParameters: false
+AllowShortFunctionsOnASingleLine: Empty
+BreakConstructorInitializers: AfterColon
+PackConstructorInitializers: NextLineOnly
+NamespaceIndentation: All
+ColumnLimit: 105
+IndentCaseLabels: true
